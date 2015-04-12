@@ -35,5 +35,4 @@ class MailServiceFactoryTest extends \PHPUnit_Framework_TestCase
 
         $this->assertInstanceOf('getID3', $service);
     }
-
 }
